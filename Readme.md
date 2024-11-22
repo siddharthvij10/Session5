@@ -1,7 +1,7 @@
 # Dog Breed Image Classification Project
 
 ## Overview
-This project focuses on building a model to classify dog breeds using a dataset from Kaggle. The project includes creating a DataModule for handling the dataset, training a model, evaluating its performance, and running inference on new images using Docker for reproducibility.
+This project focuses on building a model to classify dog breeds using a dataset from Kaggle. The project includes creating a DataModule for handling the dataset, training a model, evaluating its performance, and running inference on new images using Docker for reproducibility
 
 ## Dataset
 - **Dataset**: [Dog Breed Image Dataset](https://www.kaggle.com/datasets/khushikhushikhushi/dog-breed-image-dataset)
